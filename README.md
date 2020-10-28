@@ -8,9 +8,9 @@ Features:
 
 Used Tools:
 - React
--React Router 
--React Bootstrap
--CSS
--MongoDB
--Firebase
--Heroku
+- React Router 
+- React Bootstrap
+- CSS
+- MongoDB
+- Firebase
+- Heroku
